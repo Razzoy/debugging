@@ -21,5 +21,5 @@ console.info(myInfo);
 console.warn(myWarning);
 console.error(myError);
 console.table(myBooks);
-console.timeEnd();
+console.timeLog();
 
